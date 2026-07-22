@@ -111,7 +111,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 #昵称
 if "nick_name" not in st.session_state:
-    st.session_state.nick_name = "小美"
+    st.session_state.nick_name = "庞新苗"
 #性格
 if "character" not in st.session_state:
     st.session_state.character = "敏感，多疑，但心胸宽广"
